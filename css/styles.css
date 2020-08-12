@@ -1,9 +1,16 @@
+a {
+    font-style: italic;
+    text-align: center;
+    color:magenta
+  }
+
 .unordered {
-    color:green
+   color:green
+    
 }
 
 .ordered {
-    color:purple
+    color: purple
 }
 
 #blue {
@@ -13,3 +20,10 @@
 .img-container {
     text-align: center;
   }
+
+  h3 {
+      margin-top:300px
+    width; 300px;
+    text-align:left 
+  }
+  

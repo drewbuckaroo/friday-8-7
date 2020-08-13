@@ -1,51 +1,42 @@
 # friday-8-7
 
-Webpage demonstrating skills learned in my first week at Epicouds.
+#### Portfolio landing page for Epicodus, 08-07-2020
+
+#### By Drew Lockhart
 
 ## Description
 
-A brief demonstration of HTML tags p, h, ul, ol, li, em, strong, a, img, div, & span. Use of bootsrap.css stylesheet and custom made styles.css stylesheet to achieve typography styles, cascading, the box models, and floats. Use of correct indentation & spacing. 
+This is a web page that shows the skills learned
+in my first week at Epicodus through a portfolio 
+styled format.
 
-## Getting Started
+## Setup/Installation Requirements
 
-### Dependencies
+* Open web browser
+* Search "https://drewbuckaroo.github.io/friday-8-7/"
+* Read page
+* Click links
+* Have fun!
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+## Known Bugs
 
-### Installing
+No known bugs.
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+## Support and contact details
 
-### Executing program
+In the event of any problems running this program
+please feel free to contact the developer via e-mail
+at <drewmlockhart@gmail.com>.
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+## Technologies Used
 
-## Help
+HTML
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+CSS
 
-## Authors
+Bootstrap
 
-Drew Lockhart  
-<drewmlockhart@gmail.com>
+### License
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Release Date: 08-07-2020
-
-## License
-
-This project is licensed under the drewbuckaroo License.
+Copyright (c) 2020 Drew Lockhart
+This software is licensed under the MIT license

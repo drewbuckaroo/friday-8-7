@@ -1,3 +1,26 @@
+body{
+  background-color:whitesmoke
+  
+}
+
+.ul-container{
+  float:right;
+  width: 200px;
+  border: 10px dashed green;
+  padding: 30px;
+  margin: 35px;
+
+}
+
+.ol-container{
+  text-align: left;
+  width: 290px;
+  border: 10px double purple;
+  padding: 5px;
+  margin: 20px;
+  
+}
+
 a {
     font-style: italic;
     text-align: center;
@@ -5,7 +28,7 @@ a {
   }
 
 .unordered {
-   color:green
+  color:green 
     
 }
 
@@ -21,9 +44,5 @@ a {
     text-align: center;
   }
 
-  h3 {
-    margin-top:300px;
-    width: 300px;
-    text-align:left; 
-  }
+ 
   

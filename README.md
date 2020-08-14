@@ -12,11 +12,11 @@ styled format.
 
 ## Setup/Installation Requirements
 
-* Open web browser
-* Search "https://drewbuckaroo.github.io/friday-8-7/"
-* Read page
-* Click links
-* Have fun!
+* Clone or copy repository from "https://drewbuckaroo.github.io/friday-8-7/"
+* Save to desktop  
+* Open or paste repository in VS Code
+* Open index.html in browser
+
 
 ## Known Bugs
 

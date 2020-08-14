@@ -3,6 +3,10 @@ body{
 
 }
 
+h1 {
+color: maroon;
+}
+
 h2 {
   float: left;
   color: maroon;

@@ -12,10 +12,14 @@ styled format.
 
 ## Setup/Installation Requirements
 
-* Clone or copy repository from "https://drewbuckaroo.github.io/friday-8-7/"
+* Clone or copy repository from "https://github.com/drewbuckaroo/friday-8-7"
 * Save to desktop  
 * Open or paste repository in VS Code
 * Open index.html in browser
+
+## Deployed on GitHub Pages
+
+https://drewbuckaroo.github.io/friday-8-7/
 
 
 ## Known Bugs

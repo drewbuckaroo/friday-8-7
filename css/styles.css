@@ -1,30 +1,46 @@
-body{
-  background-color:whitesmoke;
+body {
+  background-color:blanchedalmond;
 
 }
 
-.ul-container{
-  float:right;
-  width: 200px;
-  border: 10px dashed green;
-  padding: 30px;
-  margin: 35px;
+h1 {
+color: maroon;
 
 }
 
-.ol-container{
-  text-align: left;
-  width: 290px;
-  border: 10px double purple;
-  padding: 5px;
-  margin: 20px;
+h2 {
+  float: left;
+  color: maroon;
+  margin: auto;
+  margin-right: 20px;
+
+}
+
+.container2 {
+  border: 20px double green;
+  padding: 10px;
+  background-color: cornsilk;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 75%;
+  box-sizing: border-box;
   
 }
 
+.ol-container {
+  width: 350px;
+  border: 10px double purple;
+  padding: 50px;
+  margin: 50px; 
+
+  }
+
 a {
-    font-style: italic;
-    text-align: center;
-    color:magenta
+  font-style: italic;
+  text-align: center;
+  color:magenta
+
   }
 
 .unordered {
@@ -33,15 +49,18 @@ a {
 }
 
 .ordered {
-    color: purple
+  color: purple
+
 }
 
 #blue {
-    color:blue
+  color:blue
+
 }
 
 .img-container {
-    text-align: center;
+  text-align: center;
+  
 }
 
  
